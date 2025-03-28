@@ -35,8 +35,8 @@ O projeto consiste em um desafio proposto pela **Digital Innovation One (DIO)** 
 📁 **Organização dos Repositórios**:
 Os módulos estão separados para melhor manutenção e escalabilidade:
 
-- [🔗 Link para o Front-end]()
-- [🔗 Link para o Back-end]()
+- [🔗 Link para o Front-end](https://github.com/Joao-Markus-Barbosa/DIO-APP_Full_Stack-Front-end-end-Agendamento_Barbearia.)
+- [🔗 Link para o Back-end](https://github.com/Joao-Markus-Barbosa/DIO-APP_Full_Stack-Back-end-Agendamento_Barbearia.)
 
 
 # Tecnologias Utilizadas
